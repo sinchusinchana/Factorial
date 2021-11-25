@@ -1,0 +1,13 @@
+ Volume in drive C is OS
+ Volume Serial Number is FCBD-367E
+
+ Directory of C:\Users\Dell\Desktop\JavaProject2
+
+25-11-2021  15:38    <DIR>          .
+25-11-2021  15:38    <DIR>          ..
+25-11-2021  15:30               933 Factorial.class
+25-11-2021  15:26               283 Factorial.java
+24-11-2021  09:01               940 FactorialExample.class
+25-11-2021  15:38                 0 file.txt
+               4 File(s)          2,156 bytes
+               2 Dir(s)  130,854,535,168 bytes free
